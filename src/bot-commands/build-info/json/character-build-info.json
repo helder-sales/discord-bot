@@ -1,0 +1,191 @@
+{
+  "ALBEDO": {
+    "buildType": "Sub DPS"
+  },
+  "ALOY": {
+    "buildType": "Sub DPS"
+  },
+  "AMBER": {
+    "buildType": "Main DPS"
+  },
+  "ARATAKI ITTO": {
+    "buildType": "Main DPS"
+  },
+  "ITTO": {
+    "buildType": "Main DPS"
+  },
+  "KAMISATO AYATO": {
+    "buildType": "Main DPS"
+  },
+  "AYATO": {
+    "buildType": "Main DPS"
+  },
+  "BARBARA": {
+    "buildType": "Suporte"
+  },
+  "BEIDOU": {
+    "buildType": "Sub DPS"
+  },
+  "BENNETT": {
+    "buildType": "Suporte"
+  },
+  "CHONGYUN": {
+    "buildType": "Suporte"
+  },
+  "DILUC": {
+    "buildType": "Main DPS"
+  },
+  "DIONA": {
+    "buildType": "Suporte"
+  },
+  "EULA": {
+    "buildType": "Main DPS"
+  },
+  "FISCHL": {
+    "buildType": "Sub DPS"
+  },
+  "GANYU": {
+    "buildType": "Sub DPS"
+  },
+  "GOROU": {
+    "buildType": "Suporte"
+  },
+  "HU TAO": {
+    "buildType": "Main DPS"
+  },
+  "HUTAO": {
+    "buildType": "Main DPS"
+  },
+  "JEAN": {
+    "buildType": "Suporte"
+  },
+  "KAEDEHARA KAZUHA": {
+    "buildType": "Suporte"
+  },
+  "KAZUHA": {
+    "buildType": "Suporte"
+  },
+  "KAEYA": {
+    "buildType": "Sub DPS"
+  },
+  "KAMISATO AYAKA": {
+    "buildType": "Main DPS"
+  },
+  "AYAKA": {
+    "buildType": "Main DPS"
+  },
+  "KUKI SHINOBU": {
+    "buildType": "Suporte"
+  },
+  "KUKI": {
+    "buildType": "Suporte"
+  },
+  "KEQING": {
+    "buildType": "Main DPS"
+  },
+  "KLEE": {
+    "buildType": "Main DPS"
+  },
+  "KUJOU SARA": {
+    "buildType": "Suporte"
+  },
+  "KUJOU": {
+    "buildType": "Suporte"
+  },
+  "SARA": {
+    "buildType": "Suporte"
+  },
+  "LISA": {
+    "buildType": "Suporte"
+  },
+  "MONA": {
+    "buildType": "Suporte"
+  },
+  "NINGGUANG": {
+    "buildType": "Main DPS"
+  },
+  "NOELLE": {
+    "buildType": "Suporte"
+  },
+  "QIQI": {
+    "buildType": "Suporte"
+  },
+  "RAIDEN SHOGUN": {
+    "buildType": "Main DPS"
+  },
+  "RAIDEN": {
+    "buildType": "Main DPS"
+  },
+  "RAZOR": {
+    "buildType": "Main DPS"
+  },
+  "ROSARIA": {
+    "buildType": "Sub DPS"
+  },
+  "SANGONOMIYA KOKOMI": {
+    "buildType": "Suporte"
+  },
+  "KOKOMI": {
+    "buildType": "Suporte"
+  },
+  "SAYU": {
+    "buildType": "Suporte"
+  },
+  "SHENHE": {
+    "buildType": "Suporte"
+  },
+  "SUCROSE": {
+    "buildType": "Suporte"
+  },
+  "TARTAGLIA": {
+    "buildType": "Main DPS"
+  },
+  "CHILDE": {
+    "buildType": "Main DPS"
+  },
+  "THOMA": {
+    "buildType": "Suporte"
+  },
+  "TRAVELER": {
+    "buildType": "Sub DPS"
+  },
+  "VENTI": {
+    "buildType": "Suporte"
+  },
+  "XIANGLING": {
+    "buildType": "Sub DPS"
+  },
+  "XIAO": {
+    "buildType": "Main DPS"
+  },
+  "XINGQIU": {
+    "buildType": "Sub DPS"
+  },
+  "XINYAN": {
+    "buildType": "Suporte"
+  },
+  "YANFEI": {
+    "buildType": "Main DPS"
+  },
+  "YOIMIYA": {
+    "buildType": "Main DPS"
+  },
+  "YELAN": {
+    "buildType": "Sub DPS"
+  },
+  "YAE MIKO": {
+    "buildType": "Sub DPS"
+  },
+  "YAE": {
+    "buildType": "Sub DPS"
+  },
+  "YUN JIN": {
+    "buildType": "Suporte"
+  },
+  "HEIZOU": {
+    "buildType": "Main DPS"
+  },
+  "ZHONGLI": {
+    "buildType": "Suporte"
+  }
+}
